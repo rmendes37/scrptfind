@@ -3,7 +3,7 @@
 a1=MAC19.0.2
 #arquivo para ser procurado
 a2=dhcpd3.conf
-
+#comentário
 > stdout.txt
 
 l1=`cat $a1`
